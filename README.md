@@ -4,11 +4,11 @@
 **KuyHack** adalah tool penetration testing berbasis Python yang dirancang untuk menguji kerentanan [KuySocial](https://www.kuysocial.com/) melalui berbagai metode, termasuk brute force untuk akun dengan kelemahan pada kata sandi. KuyHack memungkinkan pengguna untuk melakukan pencarian dan pengumpulan data pengguna, serta mengeksploitasi kelemahan menggunakan berbagai fitur yang tersedia.
 
 ## ✨ Fitur Utama
-- **Dump User**: Kumpulkan data pengguna dari berbagai sumber, seperti pencarian, pengikut, teman, komentar, hingga hashtag.
-- **Brute Force**: Lakukan brute force pada akun dengan kelemahan password untuk menguji tingkat keamanan.
 - **Automasi**: Program otomatis untuk mengelola file hasil eksploitasi dengan pilihan pengaturan yang fleksibel.
+- **Dump User**: Kumpulkan data pengguna dari berbagai sumber, seperti pencarian, pengikut, teman, komentar, hingga hashtag.
 - **Pengelolaan Cookies**: Verifikasi dan kelola cookies untuk proses login yang mulus.
 - **Desain Interaktif**: Tampilan yang menarik dengan elemen visual dari rich library untuk pengalaman pengguna yang lebih baik.
+- **Brute Force**: Lakukan brute force pada akun dengan kelemahan password untuk menguji tingkat keamanan.
 
 ## 📚 Persyaratan
 - Python 3.12
@@ -36,7 +36,7 @@ $ ./Run
 1. Pilih metode pengumpulan data yang diinginkan, seperti pencarian, pengikut, atau hashtag.
 2. Ikuti petunjuk interaktif untuk memasukkan informasi yang dibutuhkan.
 3. Jalankan brute force atau metode lain untuk menguji kerentanan.
-4. Simpan hasil eksploitasi dan analisis dengan mudah.
+4. Simpan hasil eksploitasi dengan mudah.
 
 ## 📷 Tangkapan Layar
 ![FunPic_20241021](https://github.com/user-attachments/assets/bc0617ab-7acf-447d-a94f-e133f5369e73)
