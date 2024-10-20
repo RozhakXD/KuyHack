@@ -1,7 +1,7 @@
 # KuyHack
 ![KuyHack](https://github.com/user-attachments/assets/86ffbcc3-c2a0-4ddf-a678-858afa0b0237)
 
-**KuyHack** adalah tool penetration testing berbasis Python yang dirancang untuk menguji kerentanan [KuySocial](https://www.kuysocial.com/) melalui berbagai metode, termasuk brute force untuk akun dengan kelemahan pada kata sandi. KuyHack memungkinkan pengguna untuk melakukan pencarian dan pengumpulan data pengguna, serta mengeksploitasi kelemahan menggunakan berbagai fitur yang tersedia.
+**KuyHack** adalah tool penetration testing berbasis Python yang dirancang untuk menguji kerentanan pada platform [KuySocial](https://www.kuysocial.com/). Dengan menggunakan berbagai metode, termasuk brute force untuk akun yang memiliki kelemahan pada kata sandi, KuyHack memungkinkan pengguna untuk melakukan pencarian dan pengumpulan data pengguna. Selain itu, tool ini juga memberikan kemampuan untuk mengeksploitasi berbagai kelemahan yang ditemukan melalui fitur-fitur yang tersedia.
 
 ## ✨ Fitur Utama
 - **Automasi**: Program otomatis untuk mengelola file hasil eksploitasi dengan pilihan pengaturan yang fleksibel.
@@ -48,9 +48,6 @@ $ ./Run
 
 ## ⚠️ Disclaimer
 KuyHack hanya boleh digunakan untuk tujuan pengujian keamanan yang sah dengan izin dari pemilik sistem. Penggunaan untuk tindakan ilegal atau tanpa izin dapat melanggar hukum setempat. Gunakan alat ini dengan bijak dan bertanggung jawab!
-
-## 🤝 Kontribusi
-Kami terbuka untuk kontribusi dari pengembang lainnya! Jika Anda ingin berkontribusi, silakan fork repositori ini, lakukan perubahan yang diperlukan, dan ajukan pull request. Kami menghargai setiap partisipasi!
 
 ## 📜 Lisensi
 Proyek ini dilisensikan di bawah [MIT License](https://github.com/RozhakXD/KuyHac/LICENSE.md).
