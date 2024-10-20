@@ -6,9 +6,9 @@
 ## ✨ Fitur Utama
 - **Automasi**: Program otomatis untuk mengelola file hasil eksploitasi dengan pilihan pengaturan yang fleksibel.
 - **Dump User**: Kumpulkan data pengguna dari berbagai sumber, seperti pencarian, pengikut, teman, komentar, hingga hashtag.
-- **Pengelolaan Cookies**: Verifikasi dan kelola cookies untuk proses login yang mulus.
 - **Desain Interaktif**: Tampilan yang menarik dengan elemen visual dari rich library untuk pengalaman pengguna yang lebih baik.
 - **Brute Force**: Lakukan brute force pada akun dengan kelemahan password untuk menguji tingkat keamanan.
+- **Pengelolaan Cookies**: Verifikasi dan kelola cookies untuk proses login yang mulus.
 
 ## 📚 Persyaratan
 - Python 3.12
@@ -50,7 +50,7 @@ $ ./Run
 KuyHack hanya boleh digunakan untuk tujuan pengujian keamanan yang sah dengan izin dari pemilik sistem. Penggunaan untuk tindakan ilegal atau tanpa izin dapat melanggar hukum setempat. Gunakan alat ini dengan bijak dan bertanggung jawab!
 
 ## 🤝 Kontribusi
-Kami menerima kontribusi dari pengembang lain! Jika Anda tertarik untuk berkontribusi, silakan fork repositori ini, buat perubahan yang diinginkan, dan kirim pull request. Kami sangat menghargai partisipasi Anda!
+Kami terbuka untuk kontribusi dari pengembang lainnya! Jika Anda ingin berkontribusi, silakan fork repositori ini, lakukan perubahan yang diperlukan, dan ajukan pull request. Kami menghargai setiap partisipasi!
 
 ## 📜 Lisensi
 Proyek ini dilisensikan di bawah [MIT License](https://github.com/RozhakXD/KuyHac/LICENSE.md).
