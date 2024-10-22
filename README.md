@@ -13,6 +13,7 @@
 ## 📚 Persyaratan
 - Python 3.12
 - Library:
+    - `fake-useragent`
     - `requests`
     - `rich`
     - `bs4`
