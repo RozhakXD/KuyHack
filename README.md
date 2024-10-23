@@ -21,7 +21,7 @@
 - Device:
     - `64bit`
 
-## 🔧 Instalasi
+## Installation
 **Termux** - [**Beta**](https://drive.google.com/file/d/1CX_vemkpcVR-NHnXw_Yx7q6b1TU_I22w/view?usp=drivesdk)
 ```
 $ apt update -y && apt upgrade -y
