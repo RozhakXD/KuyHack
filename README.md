@@ -22,7 +22,7 @@
     - `64bit`
 
 ## 🔧 Instalasi
-**Termux** - [**Beta**]()
+**Termux** - [**Beta**](https://drive.google.com/file/d/1CX_vemkpcVR-NHnXw_Yx7q6b1TU_I22w/view?usp=drivesdk)
 ```
 $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
