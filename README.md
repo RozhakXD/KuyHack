@@ -51,4 +51,4 @@ $ ./Run
 KuyHack hanya boleh digunakan untuk tujuan pengujian keamanan yang sah dengan izin dari pemilik sistem. Penggunaan untuk tindakan ilegal atau tanpa izin dapat melanggar hukum setempat. Gunakan alat ini dengan bijak dan bertanggung jawab!
 
 ## 📜 Lisensi
-Proyek ini dilisensikan di bawah [MIT License](https://github.com/RozhakXD/KuyHack/LICENSE.md).
+Proyek ini dilisensikan di bawah [MIT License](https://github.com/RozhakXD/KuyHack/blob/main/LICENSE).
